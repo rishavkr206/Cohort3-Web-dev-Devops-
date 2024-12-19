@@ -1,0 +1,6 @@
+skill lab day 1 :
+9:30 - 11:30 - nodejs installation and 1 prog 
+12:00 - 1:30 - JavaScripts
+
+2:30 onwards API call 
+
